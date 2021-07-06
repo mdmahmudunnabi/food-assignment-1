@@ -1,0 +1,84 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.name-color{
+    color: orange;
+}
+
+.flexible-container{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 40px;
+    padding-top: 5%;
+}
+
+.half-width img{
+    width: 70%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 40px;
+    background-image: linear-gradient(orange, rgb(224, 46, 14)) ;
+    color: white;
+    font-weight: 700;
+}
+
+.about{
+    background-image: url(/images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: auto;
+}
+
+.top-section{
+    padding-bottom: 150px;
+}
+
+.name-color2{
+    color: palegreen;
+}
+
+.name-color3{
+    color:pink
+}
+
+.shadow{
+    box-shadow: 10px 10px 40px greenyellow;
+    width: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5px  ;   
+    border-radius: 5px;
+}
+
+.h2{
+    font-size: 40px;
+}
+
+.my-recipies{
+    background-image: url(images/exp-bg.png) ;
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 100px;
+}
+
+
+.recipies-header{
+text-align: center;
+}
+
+.quarter-width{
+    width: 100%;
+    padding-top: 5%; 
+    padding-left: 5%;
+}
+
+.quarter-width img{
+    width: 90%;
+}
