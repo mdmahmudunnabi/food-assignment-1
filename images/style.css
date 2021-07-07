@@ -17,7 +17,8 @@ body{
 }
 
 .half-width img{
-    width: 70%;
+    width: 50%;
+    height:initial;;
 }
 
 .link-button{
@@ -33,7 +34,8 @@ body{
 .about{
     background-image: url(/images/shapes/7.png);
     background-repeat: no-repeat;
-    background-position: auto;
+    background-position: left;
+
 }
 
 .top-section{
@@ -62,9 +64,7 @@ body{
 }
 
 .my-recipies{
-    background-image: url(images/exp-bg.png) ;
-    background-repeat: no-repeat;
-    background-position: left;
+    
     margin-bottom: 100px;
 }
 
